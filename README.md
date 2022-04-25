@@ -21,13 +21,11 @@ cd python3 gui.py
 
 ## Now copy paste the code on a file with .py (example : test.py)
 
--> you can get the code from [code.md]
+-> you can get the code from >>>>code.md<<<<
 
 ## Goal
 
-problem.md
-How to add functionality to the button such that when the button is pressed, the text input by the user saves to a list.
-
+>>>>problem.md<<<<
 
 
 ## Future Outlook:
