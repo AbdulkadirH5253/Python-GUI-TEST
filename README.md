@@ -15,8 +15,7 @@ cd gui
 cd python3 gui.py
 
 => no need to use the interface opened, close it 
-  
-  The process of converting the Figma file to Python code has already been done.
+  As the process of converting the Figma file to Python code has already been done.
  
 
 ## Now copy paste the code on a file with .py (example : test.py)
@@ -25,16 +24,13 @@ cd python3 gui.py
 
 ## Goal
 
->>>>problem.md<<<<
+ >>>>problem.md<<<<
 
 
 ## Future Outlook:
 
-futureoutlook.md
+ >>>>futureoutlook.md<<<<
 
-Being able to link the button to a new page or execute certain commands
-Print Data on the Gui
-Add more functionality to the page - header etc
 
 
 
