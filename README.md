@@ -24,12 +24,12 @@ cd python3 gui.py
 
 ## Goal
 
- >>>>problem.md<<<<
+->>>>problem.md<<<<
 
 
 ## Future Outlook:
 
- >>>>futureoutlook.md<<<<
+->>>>futureoutlook.md<<<<
 
 
 
