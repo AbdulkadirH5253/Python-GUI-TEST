@@ -21,7 +21,7 @@ cd python3 gui.py
 
 ## Now copy paste the code on a file with .py (example : test.py)
 
--> you can get the code from code.md
+-> you can get the code from [code.md]
 
 ## Goal
 
